@@ -10,7 +10,22 @@ and TeaserKit makes it look directed instead of generated.
 > This repository is TeaserKit's public home page: what it does, how to install it, and examples.
 > The director itself is a paid product, sold at [teaserkit.com](https://teaserkit.com).
 
-## What it does
+## Free skill: launch video checklist
+
+This repo includes a free Agent Skill anyone can use: the director's checklist TeaserKit runs on every
+film. It covers the concept, one style, reading time, stillness, cuts, music, sound on motion,
+loudness and on-screen claims, with ffmpeg commands that measure each one. It works with HyperFrames,
+Remotion or any video your agent writes as code.
+
+```
+npx skills add Addy2055/teaserkit
+```
+
+Or copy [`skills/launch-video-checklist`](skills/launch-video-checklist/SKILL.md) into your agent's
+skills folder. Then ask your agent to "use the launch video checklist" before building a film and
+before its final render.
+
+## What TeaserKit does
 
 Coding agents can already write a video as code, but the result usually looks like every other AI
 video: text slides in, the music lands on nothing, and you end up prompting for hours. TeaserKit gives
