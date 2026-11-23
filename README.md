@@ -80,7 +80,7 @@ does the same from a link.
 
 ## Price
 
-A one-time purchase with lifetime updates on 3 computers, and a 14-day refund. TeaserKit runs on the AI
+A one-time purchase with lifetime updates on 3 computers, and a 7-day refund if it doesn't work for you. TeaserKit runs on the AI
 plan you already pay for (Claude, ChatGPT, Cursor, Copilot and more), so there are no credits and no
 per-video fees. [Current price at teaserkit.com](https://teaserkit.com/#pricing).
 
